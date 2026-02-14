@@ -1,0 +1,8 @@
+{
+  "name": "bluephantom",
+  "version": "1.0.0",
+  "main": "bluephantom.js",
+  "scripts": {
+    "start": "node bluephantom.js"
+  }
+}
